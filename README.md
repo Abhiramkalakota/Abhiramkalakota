@@ -1,145 +1,139 @@
 <h1 align="center">Hi 👋, I'm Kalakota Abhiram</h1>
 
-<h3 align="center">🚀 B.Tech CSE Student | Python Developer | DSA | Machine Learning | Cloud Computing</h3>
+<h3 align="center">
+  B.Tech CSE Student • Python Developer • Machine Learning • DSA • Cloud Computing
+</h3>
 
 <p align="center">
-  💻 Focused on <b>Python, Data Structures & Algorithms, Machine Learning, AWS, Cloud Computing, DevOps, and MongoDB</b>.
-  <br>
-  🤖 Exploring AI/ML technologies and continuously improving my problem-solving skills.
-  <br>
-  ☁️ Interested in Cloud Computing, DevOps, Open Source, and scalable software development.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhiramkalakota&label=Profile%20Views&color=0e75b6&style=flat" alt="abhiramkalakota" />
-</p>
-
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=abhiramkalakota">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhiramkalakota&theme=flat&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <a href="https://github.com/Abhiramkalakota">
+    <img src="https://img.shields.io/github/followers/Abhiramkalakota?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Abhiramkalakota">
+    <img src="https://img.shields.io/github/stars/Abhiramkalakota?label=Stars&style=for-the-badge" />
   </a>
 </p>
 
----
-
-### 🚀 About Me
-
-- 🔭 Currently working on **DSA and Machine Learning using Python**
-- 🌱 Currently learning **Python DSA, Machine Learning, AWS Cloud, DevOps, and MongoDB**
-- 🤝 Looking to collaborate on **Python, Machine Learning, and Open Source projects**
-- 💡 Interested in **AI/ML, Cloud Computing, DevOps, and Backend Development**
-- 👨‍💻 All my projects are available on **GitHub**
-- 💬 Ask me about **Python, Flask, Machine Learning, GitHub, MongoDB, and DSA**
-- 📫 Reach me at **abhiramkalakota@gmail.com**
-- 🌐 Portfolio: **https://abhiramkalakota.github.io/my-portfolio/**
-- ⚡ Fun fact: **I turn coffee ☕ into code and bugs into features 😄**
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
-</a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="45" height="45"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="45" height="45"/>
-</a>
-
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-</a>
-
-</p>
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhiramkalakota&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramkalakota&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramkalakota&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=Abhiramkalakota&label=Profile%20Views&style=for-the-badge" />
 </p>
 
 ---
 
-### 🧠 LeetCode
+## 👨‍💻 About Me
+
+I'm a **B.Tech Computer Science student** focused on becoming a strong software and machine learning developer.
+
+- 🔭 **I’m currently working on:** DSA and Machine Learning using Python
+- 🤝 **I’m looking to collaborate on:** Python, Machine Learning, and Open Source Projects
+- 💡 **I’m looking for help with:** Machine Learning, Cloud Computing, and DevOps
+- 🌱 **I’m currently learning:** Data Structures & Algorithms, Machine Learning, AWS Cloud, DevOps, and MongoDB
+- 💬 **Ask me about:** Python, Flask, Machine Learning, GitHub, MongoDB, and DSA
+- 📫 **How to reach me:** abhiramkalakota@gmail.com
+- 👨‍💻 **All of my projects are available at:** [GitHub](https://github.com/Abhiramkalakota)
+- 🌐 **Know about my experiences:** [My Portfolio](https://abhiramkalakota.github.io/my-portfolio/)
+- ⚡ **Fun fact:** I turn coffee ☕ into code and bugs into features 😄
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
+
+### 🧠 Machine Learning & Data Science
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+</p>
+
+### 🌐 Backend & Databases
+
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+### 🔧 Version Control
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🧠 LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/Kalakota_Abhiram/">
-    <img src="https://leetcard.jacoblin.cool/Kalakota_Abhiram?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+    <img src="https://img.shields.io/badge/LeetCode-Kalakota__Abhiram-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Kalakota_Abhiram?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
 ---
 
-### 🔗 Connect With Me
+## 📊 GitHub Statistics
 
-<p align="left">
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abhiramkalakota&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiramkalakota&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://www.linkedin.com/in/koushikeya-vadika-323809334/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiramkalakota&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 What I'm Working Towards
+
+My goal is to continuously improve my **coding, problem-solving, machine learning, cloud, and software development skills** and become industry-ready.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Abhiramkalakota">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://leetcode.com/u/Kalakota_Abhiram/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+<a href="kedin.com/in/abhiram-kalakota-ab1b7b320/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Kalakota_Abhiram/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:abhiramkalakota@gmail.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://abhiramkalakota.github.io/my-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
@@ -147,5 +141,5 @@
 ---
 
 <p align="center">
-  <b>🚀 Learn • Code • Build • Improve</b>
+  <b>💻 Code • 🧠 Learn • 🤖 Build • ☁️ Deploy • 🚀 Grow</b>
 </p>
